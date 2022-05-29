@@ -37,7 +37,8 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 - PhD gradauted in MT topic, from ADAPT Research Centre, DCU
 - MSc in Software Engineering, thesis in MT Eval (LEPOR, hLEPOR, nLEPOR) with Excellent Award from UM
 - BSc in Math from HNU of China
-
+- Reserach topics: Machine Translation, Evaluation, Information Extraction, Linguistics Aware NLP 
+- Google Scholar page (https://scholar.google.com/citations?hl=en&user=_vf3E2QAAAAJ&view_op=list_works)
 
 
 **Serge Gladkoff**
