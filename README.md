@@ -71,5 +71,10 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 
 - S Gladkoff, I Sorokina, L Han, A Alekseeva (2022) Measuring Uncertainty in Translation Quality Evaluation (TQE). LREC22. arXiv preprint arXiv:2111.07699
  
+**Presentations**
+
+- from Motra2021: video link https://drive.google.com/drive/folders/1njFi9FyHp1mURN0_5DXW1ws6szwq2RMo?usp=sharing ppt slides link https://drive.google.com/drive/folders/15YQDJaWoKJZiStuaWXzz-2Y-KOW1Bozh?usp=sharing 
+- 
+ 
  
 
