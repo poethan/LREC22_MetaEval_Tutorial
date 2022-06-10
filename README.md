@@ -79,6 +79,6 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
  | Acknowledgement |
 |---|
 
-We thank the feedback and discussion on this tutorial structure and presentation form NLP group in The University of Manchester, especially Viktor Schlegel, Nhung Nguen, Haifa, Tharindu.
+We thank the feedback and discussion on this tutorial structure and presentation form NLP group in The University of Manchester, especially Viktor Schlegel, Nhung Nguen, Haifa, Tharindu, Abdullah.
 A link to NLP at UniManchester https://www.cs.manchester.ac.uk/research/expertise/natural-language-processing/
 
