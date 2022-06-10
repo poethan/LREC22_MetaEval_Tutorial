@@ -54,7 +54,7 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 
 - Lifeng Han. (2018) Machine Translation Evaluation Resources and Methods: A Survey. https://arxiv.org/pdf/1605.04515v8.pdf 
 - Han et al. (2021) Translation Quality Assessment: A Brief Survey on Manual and Automatic Methods. https://aclanthology.org/2021.motra-1.3/ 
-- Lifeng Han (2022) An Overview on Machine Translation Evaluation. https://arxiv.org/abs/2202.11027 (in Chinese)
+- Lifeng Han (2022) An Overview on Machine Translation Evaluation. https://arxiv.org/abs/2202.11027 (in Chinese, English update forthcoming)
 
 **HumanEval Metrics**
 
