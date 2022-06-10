@@ -76,5 +76,9 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 - from Motra2021: video link https://drive.google.com/drive/folders/1njFi9FyHp1mURN0_5DXW1ws6szwq2RMo?usp=sharing ppt slides link https://drive.google.com/drive/folders/15YQDJaWoKJZiStuaWXzz-2Y-KOW1Bozh?usp=sharing 
 - 
  
- 
+ | Acknowledgement |
+|---|
+
+We thank the feedback and discussion on this tutorial structure and presentation form NLP group in The University of Manchester, especially Viktor Schlegel, Nhung Nguen, Haifa, Tharindu.
+A link to NLP at UniManchester https://www.cs.manchester.ac.uk/research/expertise/natural-language-processing/
 
