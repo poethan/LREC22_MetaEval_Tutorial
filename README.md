@@ -65,7 +65,10 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 - Lifeng Han, Irina Sorokina, Gleb Erofeev, Serge Gladkoff (2021) cushLEPOR: customising hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE. WMT21. https://aclanthology.org/2021.wmt-1.109/ 
 - Gleb Erofeev, Irina Sorokina, Lifeng Han, Serge Gladkoff (2021) cushLEPOR uses LABSE distilled knowledge to improve correlation with human translation evaluations https://aclanthology.org/2021.mtsummit-up.28/
 - Lifeng Han. 2014. LEPOR: An Augmented Machine Translation Evaluation Metric. MSc Thesis. University of Macau, Macao. https://arxiv.org/abs/1703.08748
+- Han et al. 2014. Unsupervised Quality Estimation Model for English to German Translation and Its Application in Extensive Supervised Evaluation. https://www.hindawi.com/journals/tswj/2014/760301/ Recent Advances in Information Technology (using n-gram for precision and recall)
 - Han et al. 2013. Quality Estimation for Machine Translation Using the Joint Method of Evaluation Criteria and Statistical Modeling. WMT13. https://aclanthology.org/W13-2245.pdf
+- Han et al. (2013) "Phrase Tagset Mapping for French and English Treebanks and Its Application in Machine Translation Evaluation”. GSCL2013. https://link.springer.com/content/pdf/10.1007/978-3-642-40722-2_13.pdf (Using syntactic phrase structure)
+- Han et al. (2013) "Language-independent Model for Machine Translation Evaluation with Reinforced Factors" in MT Summit. https://aclanthology.org/2013.mtsummit-posters.3.pdf (Using POS)
 - Han et al. 2012. LEPOR: A Robust Evaluation Metric for Machine Translation with Augmented Factors. COLING12. https://aclanthology.org/C12-2044.pdf
 
 **Meta-eval and Confidence**
