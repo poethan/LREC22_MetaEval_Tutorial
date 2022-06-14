@@ -60,6 +60,7 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 **HumanEval Metrics**
 
 - S Gladkoff, L Han (2022) HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation. LREC22. arXiv preprint arXiv:2112.13833
+- Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. In Proceedings of the Joint Workshop on Multiword Expressions and Electronic Lexicons, pages 44–57, online. Association for Computational Linguistics. https://aclanthology.org/2020.mwe-1.6/ 
 
 **Auto-eval and QE**
 - Lifeng Han, Irina Sorokina, Gleb Erofeev, Serge Gladkoff (2021) cushLEPOR: customising hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE. WMT21. https://aclanthology.org/2021.wmt-1.109/ 
