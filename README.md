@@ -27,8 +27,7 @@ https://aclanthology.org/1999.mtsummit-1.41.pdf
 
 
 ### MQM 2.0 (ASTM WK46396) Analytic Evaluation of Translation Quality
-The workgroup: [https://specbuilder.astm.org/user/group/overview/1545?accountID=4971](https://www.astm.org/workitem-wk46396#:~:text=ASTM%20WK46396%20New%20Practice%20for%20Analytic%20Evaluation%20of,practices%2C%2
-0and%20terminology%29%20for%20language%20services%20and%20products.)
+The work item: www.astm.org/workitem-wk46396
 
 https://themqm.org/
 
