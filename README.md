@@ -55,7 +55,7 @@ With the advent of neural machine translation new human evaluation methods have 
 
 
 
-| Speekers |
+| Speakers |
 |---|
 
 **Lifeng Han**
@@ -70,7 +70,7 @@ With the advent of neural machine translation new human evaluation methods have 
 
 **Serge Gladkoff**
 
-- CEO of Logrus Global LSP
+- CEO of Logrus Global (LSP)
 - Web: https://logrusglobal.com 
 
 
