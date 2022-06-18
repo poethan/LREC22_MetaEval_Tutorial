@@ -4,7 +4,7 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 | Content |
 |---|
 
-**HumanEval**
+# Human evaluation methods
 
 ## Traditional Human Evaluation
 
@@ -38,11 +38,14 @@ With the advent of neural machine translation new human evaluation methods have 
 
 
 
-**AutoEval**
+# Automatic evaluation methods
 
 - N-gram Word Surface Similarity
+
+## BLEU
+
 - Syntax and Semantics
-- Statistical Eval and Deep Learning Based Eval 
+- - Statistical Eval and Deep Learning Based Eval 
 - Reference-dependent vs Reference-free (QE)
 
 
