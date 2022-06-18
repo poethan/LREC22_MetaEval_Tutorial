@@ -28,13 +28,13 @@ https://aclanthology.org/1999.mtsummit-1.41.pdf
 
 ### MQM 2.0 (ASTM WK46396) Analytic Evaluation of Translation Quality
 The work item: www.astm.org/workitem-wk46396
-
-https://themqm.org/
-
+More detailed information: https://themqm.org/
 
 ### HQuest (ASTM WK54484) - holistic system for measuring translation quality
+The work item: https://www.astm.org/workitem-wk54884
 
-### ISO 5060
+### ISO/DIS 5060 - Translation services — Evaluation of translation output — General guidance
+The work item: https://www.iso.org/standard/80701.html
 
 ## Advanced Human Evaluation methods
 
