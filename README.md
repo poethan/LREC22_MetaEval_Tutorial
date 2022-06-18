@@ -19,10 +19,19 @@ Here is the list of methods with their brief summary.
 ### MQM 1.0
 
 ### SAE J2450
+The workgroup: https://www.sae.org/standardsdev/j2450p1.htm
+The MT Summit VII paper: Deploying the SAE J2450 Translation Quality Metric in MT Projects
+https://aclanthology.org/1999.mtsummit-1.41.pdf
 
 ### TAUS DQF
 
-### MQM 2.0 (ASTM WK46396)
+
+### MQM 2.0 (ASTM WK46396) Analytic Evaluation of Translation Quality
+The workgroup: [https://specbuilder.astm.org/user/group/overview/1545?accountID=4971](https://www.astm.org/workitem-wk46396#:~:text=ASTM%20WK46396%20New%20Practice%20for%20Analytic%20Evaluation%20of,practices%2C%2
+0and%20terminology%29%20for%20language%20services%20and%20products.)
+
+https://themqm.org/
+
 
 ### HQuest (ASTM WK54484) - holistic system for measuring translation quality
 
