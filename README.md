@@ -6,12 +6,35 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 
 **HumanEval**
 
-# Traditional HumanEval
+## Traditional Human Evaluation
+
+Traditional human evaluation methods of quality of machine translation have been developed for many years and this field has been developed very extensively. There are also new developments on-going.
+
+Here is the list of methods with their brief summary.
+
+### NIST 
+
+### LISA
+
+### MQM 1.0
+
+### SAE J2450
+
+### TAUS DQF
+
+### MQM 2.0 (ASTM WK46396)
+
+### HQuest (ASTM WK54484) - holistic system for measuring translation quality
+
+### ISO 5060
+
+## Advanced Human Evaluation methods
+
+With the advent of neural machine translation new human evaluation methods have emerged:
+
+### LOGIPEM
 
 
-## 
-
-- Advanced HumanEval
 
 
 
