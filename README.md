@@ -39,6 +39,8 @@ Described in: Welcome to the Real World: Professional-Level Translator Certifica
 The International Journal of Translation and Interpreting Research, 2013
 By [Geoff Koby](https://kentstate.academia.edu/GeoffreyKoby)
 
+Additional info: https://www.atanet.org/translation/summary-of-defining-translation-quality/
+
 ### TAUS DQF
 Description: MQM-like metric. Now discontinued.
 
@@ -56,24 +58,30 @@ The work item: https://www.iso.org/standard/80701.html
 
 With the advent of neural machine translation new human evaluation methods have emerged:
 
-### HOPE
+### HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation
 
 Description: human metric to quickly assess quality of MT.
 
-Reference: 
-
-
+Reference: https://arxiv.org/abs/2112.13833
 
 # Automatic evaluation methods
 
-- N-gram Word Surface Similarity
-
 ## BLEU
 
-- Syntax and Semantics
-- - Statistical Eval and Deep Learning Based Eval 
-- Reference-dependent vs Reference-free (QE)
+## hLEPOR
 
+## cushLEPOR: customised hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE
+
+Reference: https://arxiv.org/abs/2108.09484
+
+
+
+
+
+- N-gram Word Surface Similarity
+- Syntax and Semantics
+- Statistical Eval and Deep Learning Based Eval 
+- Reference-dependent vs Reference-free (QE)
 
 **MetaEval**
 
