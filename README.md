@@ -56,9 +56,11 @@ The work item: https://www.iso.org/standard/80701.html
 
 With the advent of neural machine translation new human evaluation methods have emerged:
 
-### LOGIPEM
+### HOPE
 
+Description: human metric to quickly assess quality of MT.
 
+Reference: 
 
 
 
