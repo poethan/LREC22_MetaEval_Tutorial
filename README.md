@@ -1,6 +1,8 @@
 # LREC22_MetaEval_Tutorial
 This repository share the material for LREC22 tutorial "Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview"
 
+A Link to download our tutorial draft PPT slides (will be updated after tutorial) https://drive.google.com/drive/folders/1sajkcrnDgTOFiYVkFjYqh9EDYUhneYqA?usp=sharing 
+
 | Content |
 |---|
 
