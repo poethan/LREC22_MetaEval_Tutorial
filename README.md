@@ -12,16 +12,32 @@ Traditional human evaluation methods of quality of machine translation have been
 
 Here is the list of methods with their brief summary.
 
-### NIST 
+### ALPAC report
+Description: seminal work on measuring translation quality.
+Computers in Translation and Linguistics, a report by the Automatic Language Processing Advisory Committee (ALPAC), Publication 1416, National Academy of Sciences, National Research Council, Washington, D.C., 1966
 
-### LISA
+Report: https://nap.nationalacademies.org/read/9547/chapter/1
+
+### LISA QA Model
+Description: Developed by LISA (Localization and Internationalization Standards Association)
+Explainatory presentation: http://www.qt21.eu/launchpad/sites/default/files/QTLP%20GALA%20Webinar%203.pdf
 
 ### MQM 1.0
+Description: MQM 1.0 was developed as deliverable of EU QT21 project.
+Definitions: http://www.qt21.eu/mqm-definition/definition-2015-12-30.html
+Issue Types: http://www.qt21.eu/mqm-definition/issues-list-2015-12-30.html
 
 ### SAE J2450
 The workgroup: https://www.sae.org/standardsdev/j2450p1.htm
 The MT Summit VII paper: Deploying the SAE J2450 Translation Quality Metric in MT Projects
 https://aclanthology.org/1999.mtsummit-1.41.pdf
+
+### ATA Translation Certification Program
+Description: ATA translation certification program features a very interesting and robust translation quality evaluation metric
+
+Described in: Welcome to the Real World: Professional-Level Translator Certification
+The International Journal of Translation and Interpreting Research, 2013
+By [Geoff Koby](https://kentstate.academia.edu/GeoffreyKoby)
 
 ### TAUS DQF
 
