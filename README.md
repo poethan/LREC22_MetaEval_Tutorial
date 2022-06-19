@@ -67,16 +67,22 @@ Reference: https://arxiv.org/abs/2112.13833
 # Automatic evaluation methods
 
 ## BLEU
+BLEU computes the precision for n-gram of size 1-to-4 with the coefficient of brevity penalty. The theory under this design is that if most of the outputs are right but with too short output (e.g. many meanings of the source sentences lost), then the precision value may be very high but this is not a good translation; the brevity-penalty coefficient will decrease the final score to balance this phenomenon.
 
-## hLEPOR
+First publication: https://aclanthology.org/P02-1040.pdf
+
+## hLEPOR (LEngth penalty, Precision, n-gram pOsition difference penalty and Recall)
+
+First publication: https://arxiv.org/ftp/arxiv/papers/1703/1703.08748.pdf
+
+## COMET
 
 ## cushLEPOR: customised hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE
+Customised hLEPOR (cushLEPOR) uses Optuna hyper-parameter optimisation framework to fine-tune hLEPOR weighting parameters towards better agreement to pre-trained language models (using LaBSE) regarding the exact MT language pairs that cushLEPOR is deployed to. We also optimise cushLEPOR towards professional human evaluation.
 
-Reference: https://arxiv.org/abs/2108.09484
+First publication: https://arxiv.org/abs/2108.09484
 
-
-
-
+## Classification of automatic methods of translation quality evaluation
 
 - N-gram Word Surface Similarity
 - Syntax and Semantics
@@ -89,7 +95,6 @@ Reference: https://arxiv.org/abs/2108.09484
 - Sample Size Confidentiality 
 - Agreement Measuring
 - Correlations between AutoEval and HumanEval
-
 
 
 | Speakers |
