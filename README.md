@@ -89,7 +89,7 @@ First publication: https://arxiv.org/abs/2108.09484
 - Statistical Eval and Deep Learning Based Eval 
 - Reference-dependent vs Reference-free (QE)
 
-**MetaEval**
+## Meta Evaluation of translation quality metrics
 
 - Eval Model Credibility
 - Sample Size Confidentiality 
