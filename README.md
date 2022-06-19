@@ -40,7 +40,7 @@ The International Journal of Translation and Interpreting Research, 2013
 By [Geoff Koby](https://kentstate.academia.edu/GeoffreyKoby)
 
 ### TAUS DQF
-
+Description: MQM-like metric. Now discontinued.
 
 ### MQM 2.0 (ASTM WK46396) Analytic Evaluation of Translation Quality
 The work item: www.astm.org/workitem-wk46396
