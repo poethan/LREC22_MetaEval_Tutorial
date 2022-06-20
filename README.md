@@ -92,7 +92,10 @@ First publication: https://aclanthology.org/P02-1040.pdf
 
 First publication: https://arxiv.org/ftp/arxiv/papers/1703/1703.08748.pdf
 
-## COMET
+## COMET (Crosslingual Optimized Metric for Evaluation of Translation)
+COMET is designed to learn to predict human judgments of MT quality. It does this by using a neural system to first map the MT-generated translation, the reference translation and the source language text into neural meaning representations. It then leverages these representations in order to learn to predict a quality score that is explicitly optimized for correlation with human judgments of translation quality. 
+
+https://resources.unbabel.com/blog/why-we-believe-high-quality-machine-translation-really-is-possible
 
 ## cushLEPOR: customised hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE
 Customised hLEPOR (cushLEPOR) uses Optuna hyper-parameter optimisation framework to fine-tune hLEPOR weighting parameters towards better agreement to pre-trained language models (using LaBSE) regarding the exact MT language pairs that cushLEPOR is deployed to. cushLEPOR metric can be file tuned to correlate with other metrics; in this work authors optimize it towards professional human evaluation.
