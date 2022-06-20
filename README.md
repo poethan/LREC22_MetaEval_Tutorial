@@ -30,7 +30,7 @@ Definitions: http://www.qt21.eu/mqm-definition/definition-2015-12-30.html
 Issue Types: http://www.qt21.eu/mqm-definition/issues-list-2015-12-30.html
 
 ### SAE J2450
-The workgroup: https://www.sae.org/standardsdev/j2450p1.htm
+The workgroup: https://www.sae.org/standardsdev/j2450p1.htm<br>
 The MT Summit VII paper: Deploying the SAE J2450 Translation Quality Metric in MT Projects
 https://aclanthology.org/1999.mtsummit-1.41.pdf
 
