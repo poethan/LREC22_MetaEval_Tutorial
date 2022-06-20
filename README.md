@@ -28,6 +28,7 @@ Explainatory presentation: http://www.qt21.eu/launchpad/sites/default/files/QTLP
 Description: MQM 1.0 was developed as deliverable of EU QT21 project.
 Definitions: http://www.qt21.eu/mqm-definition/definition-2015-12-30.html
 Issue Types: http://www.qt21.eu/mqm-definition/issues-list-2015-12-30.html
+Latest version of issue types: https://www.w3.org/community/mqmcg/2018/10/04/draft-2018-10-04/
 
 ### SAE J2450
 The workgroup: https://www.sae.org/standardsdev/j2450p1.htm<br>
@@ -44,9 +45,19 @@ By [Geoff Koby](https://kentstate.academia.edu/GeoffreyKoby)
 Additional info: https://www.atanet.org/translation/summary-of-defining-translation-quality/
 
 ### TAUS DQF
-Description: MQM-like metric. Now discontinued.
+Description: MQM-like metric.
+
+Many users may be familiar with the historical antecedents of the current MQM Core error typology.
+The typology is based on the earlier TAUS system, DQF/MQM, which evolved out of the QT21/QTLaunchpad projects managed amongst others by DFKI.
+Some changes appear in the top-level dimensions (where DQF-Fluency is now Linguistic conventions, and DQF-Verity has become Audience Appropriateness. Refinements in the typology deemed these designators to be more transparent to most users. See the TheMQM webpage for further explanations. These changes were agreed upon in collaboration with TAUS, and ISO 5060.<br>
+https://www.taus.net/resources/blog/category/dynamic-quality-framework<br>
+https://www.w3.org/community/mqmcg/2018/10/04/draft-2018-10-04/
+
+Now discontinued. Incorporated in MQM Core
 
 ### MQM 2.0 (ASTM WK46396) Analytic Evaluation of Translation Quality
+The latest version of Multidimensional Quality Framework.
+
 The work item: www.astm.org/workitem-wk46396
 More detailed information: https://themqm.org/
 
