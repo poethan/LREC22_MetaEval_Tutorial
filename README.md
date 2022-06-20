@@ -132,9 +132,10 @@ First publication: https://arxiv.org/abs/2108.09484
 
 **Serge Gladkoff**
 
-- CEO of Logrus Global (LSP)
-- Web: https://logrusglobal.com 
-
+- CEO of Logrus Global (LSP) https://logrusglobal.com 
+- Head of R&D of Logrus Global AI Lab http://ai-lab.logrusglobal.com/blog/
+- Technical contact of ASTM WK4636 standard
+- ISO ANSI expert from United States
 
 | References |
 |---|
