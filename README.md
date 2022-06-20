@@ -3,6 +3,8 @@ This repository share the material for LREC22 tutorial "Meta-Evaluation of Trans
 
 A Link to **download our tutorial** draft PPT slides (will be updated after tutorial) https://drive.google.com/drive/folders/1sajkcrnDgTOFiYVkFjYqh9EDYUhneYqA?usp=sharing 
 
+A Group Photo link from our tutorial https://drive.google.com/drive/folders/1ll70UZ2jxivSYhE5S1yFKwAJ9FhvgYtt?usp=sharing 
+
 | Content |
 |---|
 
