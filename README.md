@@ -136,6 +136,7 @@ First publication: https://arxiv.org/abs/2108.09484
 - Head of R&D of Logrus Global AI Lab http://ai-lab.logrusglobal.com/blog/
 - Technical contact of ASTM WK4636 standard
 - ISO ANSI expert from United States
+- ResearchGate page: https://www.researchgate.net/profile/Serge-Gladkoff/research
 
 | References |
 |---|
