@@ -80,7 +80,7 @@ First publication: https://arxiv.org/ftp/arxiv/papers/1703/1703.08748.pdf
 ## COMET
 
 ## cushLEPOR: customised hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE
-Customised hLEPOR (cushLEPOR) uses Optuna hyper-parameter optimisation framework to fine-tune hLEPOR weighting parameters towards better agreement to pre-trained language models (using LaBSE) regarding the exact MT language pairs that cushLEPOR is deployed to. We also optimise cushLEPOR towards professional human evaluation.
+Customised hLEPOR (cushLEPOR) uses Optuna hyper-parameter optimisation framework to fine-tune hLEPOR weighting parameters towards better agreement to pre-trained language models (using LaBSE) regarding the exact MT language pairs that cushLEPOR is deployed to. cushLEPOR metric can be file tuned to correlate with other metrics; in this work authors optimize it towards professional human evaluation.
 
 First publication: https://arxiv.org/abs/2108.09484
 
