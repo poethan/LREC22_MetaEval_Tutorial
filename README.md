@@ -81,6 +81,15 @@ Description: human metric to quickly assess quality of MT.
 
 Reference: https://arxiv.org/abs/2112.13833
 
+## Evaluating Multi-word Expression (MWE) MT Quality
+
+MWEs play bottleneck in many NLP tasks. MWEs have a broad covery including idioms, metophors, and fixed/semi-fixed patterns.
+
+### AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. 
+AlphaMWE: https://github.com/poethan/AlphaMWE 
+ In Proceedings of the Joint Workshop on Multiword Expressions and Electronic Lexicons, pages 44–57, online. Association for Computational Linguistics.
+
+
 # Automatic evaluation methods
 
 ## BLEU
