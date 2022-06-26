@@ -5,6 +5,8 @@ A Link to **download our tutorial PPT** slides (will be updated after tutorial) 
 
 A Group Photo link from our tutorial https://drive.google.com/drive/folders/1ll70UZ2jxivSYhE5S1yFKwAJ9FhvgYtt?usp=sharing 
 
+Conference Link https://lrec2022.lrec-conf.org/en/ 
+
 | Content |
 |---|
 
@@ -189,4 +191,4 @@ https://arxiv.org/abs/2111.07699
 
 - We thank the feedback and discussion on this tutorial structure and presentation form NLP group in The University of Manchester, especially Viktor Schlegel, Nhung Nguen, Haifa, Tharindu, Abdullah, Laura. 
 - We also thank the funding support from Uni of Manchester (via Prof Goran Nenadic's project) and previous funding from ADAPT Research Centre, DCU. A link to NLP at UniManchester https://www.cs.manchester.ac.uk/research/expertise/natural-language-processing/ and ADAPT https://www.adaptcentre.ie/ 
-- We thank the tutorial attendees from LREC2022 (https://lrec2022.lrec-conf.org/en/) for valuable discussion and feedback to this tutorial and our work.
+- We thank the tutorial attendees from LREC2022 for valuable discussion and feedback to this tutorial and our work.
