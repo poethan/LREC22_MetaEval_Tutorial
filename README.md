@@ -177,8 +177,9 @@ First publication: https://arxiv.org/abs/2108.09484
 **Meta-eval and Confidence**
 
 - S Gladkoff, I Sorokina, L Han, A Alekseeva (2022) Measuring Uncertainty in Translation Quality Evaluation (TQE). LREC22. arXiv preprint arXiv:2111.07699
- 
-**Presentations**
+https://arxiv.org/abs/2111.07699 
+
+**older Presentations**
 
 - from Motra2021: video link https://drive.google.com/drive/folders/1njFi9FyHp1mURN0_5DXW1ws6szwq2RMo?usp=sharing ppt slides link https://drive.google.com/drive/folders/15YQDJaWoKJZiStuaWXzz-2Y-KOW1Bozh?usp=sharing 
 - 
@@ -188,4 +189,4 @@ First publication: https://arxiv.org/abs/2108.09484
 
 - We thank the feedback and discussion on this tutorial structure and presentation form NLP group in The University of Manchester, especially Viktor Schlegel, Nhung Nguen, Haifa, Tharindu, Abdullah, Laura. 
 - We also thank the funding support from Uni of Manchester (via Prof Goran Nenadic's project) and previous funding from ADAPT Research Centre, DCU. A link to NLP at UniManchester https://www.cs.manchester.ac.uk/research/expertise/natural-language-processing/ and ADAPT https://www.adaptcentre.ie/ 
-
+- We thank the tutorial attendees from LREC2022 for valuable discussion and feedback to this tutorial and our work.
