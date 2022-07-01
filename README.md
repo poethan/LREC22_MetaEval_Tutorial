@@ -7,6 +7,13 @@ A Group Photo link from our tutorial https://drive.google.com/drive/folders/1ll7
 
 Conference Link https://lrec2022.lrec-conf.org/en/ 
 
+**Abstract**
+Starting from 1950s, Machine Translation (MT) was challenged from different scientific solutions which included rule-based methods,  example-based and statistical models (SMT), to hybrid models, and very recent years the neural models (NMT). 
+While NMT has achieved a huge quality improvement in comparison to conventional methodologies, by taking advantages of huge amount of parallel corpora available from internet and the recently developed super computational power support with an acceptable cost, it struggles to achieve real human parity in many domains and most language pairs, if not all of them.
+Alongside the long road of MT research and development, quality evaluation metrics played very important roles in MT advancement and evolution.
+In this tutorial, we overview the traditional human judgement criteria, automatic evaluation metrics, unsupervised quality estimation models, as well as the meta-evaluation of the evaluation methods. Among these, we will also cover the very recent work in the MT evaluation (MTE) fields taking advantages of large size of pre-trained language models for automatic metric customisation towards exactly deployed language pairs and domains. In addition, we also introduce the statistical confidence estimation regarding sample size needed for human evaluation in real practice simulation. 
+
+
 | Content |
 |---|
 
