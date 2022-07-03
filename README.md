@@ -193,6 +193,12 @@ https://arxiv.org/abs/2111.07699
 - from Motra2021: video link https://drive.google.com/drive/folders/1njFi9FyHp1mURN0_5DXW1ws6szwq2RMo?usp=sharing ppt slides link https://drive.google.com/drive/folders/15YQDJaWoKJZiStuaWXzz-2Y-KOW1Bozh?usp=sharing 
 - 
  
+ | Cite this tutorial |
+|---|
+
+
+- Lifeng Han and Serge Gladkoff. 2022. Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview. Tutorial at LREC2022. June 20th, 2022, Marseille, France.
+
  | Acknowledgement |
 |---|
 
