@@ -199,6 +199,13 @@ https://arxiv.org/abs/2111.07699
 
 - Lifeng Han and Serge Gladkoff. 2022. Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview. Tutorial at LREC2022. June 20th, 2022, Marseille, France.
 
+@article{hanmeta,
+  title={Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview},
+  author={Han, Lifeng and Gladkoff, Serge},
+  Conferences={Tutorial in LREC2022},
+  Location={Marseille, France}
+}
+
  | Acknowledgement |
 |---|
 
