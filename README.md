@@ -8,7 +8,8 @@ https://github.com/poethan/LREC22_MetaEval_Tutorial/blob/main/LREC22_Tutorial_Me
 
 A Nice Seminar Photo from our tutorial https://drive.google.com/drive/folders/1ll70UZ2jxivSYhE5S1yFKwAJ9FhvgYtt?usp=sharing 
 
-Conference Page https://lrec2022.lrec-conf.org/en/ 
+Conference Page 
+https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/tutorials-details/ 
 
 **Abstract**
 Starting from 1950s, Machine Translation (MT) was challenged from different scientific solutions which included rule-based methods,  example-based and statistical models (SMT), to hybrid models, and very recent years the neural models (NMT). 
