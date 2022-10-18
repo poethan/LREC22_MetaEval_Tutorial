@@ -17,6 +17,7 @@ In this tutorial, we overview the traditional human judgement criteria, automati
 
 
 | Cite this Tutorial |
+|---|
 
 @article{hanmeta,
   title={Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview},
