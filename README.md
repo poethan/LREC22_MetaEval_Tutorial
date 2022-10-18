@@ -3,11 +3,12 @@ This repository share the material for LREC2022 tutorial "Meta-Evaluation of Tra
 
 **Table of Content (Lecture List)**: "https://github.com/poethan/LREC22_MetaEval_Tutorial/blob/main/lrec22_meta-eval-tutorial_lecture.pdf"
 
-A Link to **download our tutorial PPT** slides (will be updated after tutorial) https://drive.google.com/drive/folders/1sajkcrnDgTOFiYVkFjYqh9EDYUhneYqA?usp=sharing 
+Direct Link to **download our tutorial PPT** slides:
+https://github.com/poethan/LREC22_MetaEval_Tutorial/blob/main/LREC22_Tutorial_MetaEval.pdf
 
-A Group Photo link from our tutorial https://drive.google.com/drive/folders/1ll70UZ2jxivSYhE5S1yFKwAJ9FhvgYtt?usp=sharing 
+A Nice Seminar Photo from our tutorial https://drive.google.com/drive/folders/1ll70UZ2jxivSYhE5S1yFKwAJ9FhvgYtt?usp=sharing 
 
-Conference Link https://lrec2022.lrec-conf.org/en/ 
+Conference Page https://lrec2022.lrec-conf.org/en/ 
 
 **Abstract**
 Starting from 1950s, Machine Translation (MT) was challenged from different scientific solutions which included rule-based methods,  example-based and statistical models (SMT), to hybrid models, and very recent years the neural models (NMT). 
