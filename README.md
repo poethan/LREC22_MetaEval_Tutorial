@@ -16,6 +16,17 @@ Alongside the long road of MT research and development, quality evaluation metri
 In this tutorial, we overview the traditional human judgement criteria, automatic evaluation metrics, unsupervised quality estimation models, as well as the meta-evaluation of the evaluation methods. Among these, we will also cover the very recent work in the MT evaluation (MTE) fields taking advantages of large size of pre-trained language models for automatic metric customisation towards exactly deployed language pairs and domains. In addition, we also introduce the statistical confidence estimation regarding sample size needed for human evaluation in real practice simulation. 
 
 
+| cite this tutorial |
+
+@article{hanmeta,
+  title={Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview},
+  author={Lifeng Han and Serge Gladkoff},
+  url = {https://github.com/poethan/LREC22_MetaEval_Tutorial}
+}
+
+Lifeng Han and Serge Gladkoff. 2022. "Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview." Tutorial in LREC2022. 
+
+
 | Content/Appendices |
 |---|
 
