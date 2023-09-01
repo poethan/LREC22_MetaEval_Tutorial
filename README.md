@@ -1,6 +1,8 @@
 # LREC22_MetaEval_Tutorial
 This repository share the material for LREC2022 tutorial "Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview"
 
+[up2date new location=>](https://github.com/aaronlifenghan/LREC22_MetaEval_Tutorial)
+
 **Table of Content (Lecture List)**: "https://github.com/poethan/LREC22_MetaEval_Tutorial/blob/main/lrec22_meta-eval-tutorial_lecture.pdf"
 
 Direct Link to **download our tutorial PPT** slides:
